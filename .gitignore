@@ -1,0 +1,16 @@
+# Python virtual environments & cache
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/crm.db
+backend/.env
+
+# Node modules & frontend build artifacts
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.tmp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
